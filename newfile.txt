@@ -1,0 +1,2 @@
+SOME CONTENT ON THE NOTEPAD
+I hate command lines
